@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+traffic.db
+traffic.db-wal
+traffic.db-shm
+last_notified.txt
