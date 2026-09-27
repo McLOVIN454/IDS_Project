@@ -4,3 +4,4 @@ traffic.db
 traffic.db-wal
 traffic.db-shm
 last_notified.txt
+malicious_ips.netset
